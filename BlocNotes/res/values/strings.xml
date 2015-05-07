@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bloc Notes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">image</string>
+
+    <string name="bold">Gras</string>
+    <string name="italy">Italique</string>
+    <string name="under"><u>Souligne</u></string>
+
+    <string name="smile">Smileys:</string>
+ 
+    <string name="black">Noir</string>
+    <string name="red">Rouge</string>
+    <string name="blue">Bleu</string>
+    
+    <string name="hide">Cacher</string>
+    <string name="show">Afficher</string>
+
+    <string name="text">Editer: </string>
+	<string name="prev">Previsualisation:</string>
+    
+</resources>

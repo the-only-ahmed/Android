@@ -1,0 +1,2 @@
+serviceClass: com.example.cloud.client.GreetingService
+path: D7BFAACB7A4CDF345FA35E730FCF37E3.gwt.rpc

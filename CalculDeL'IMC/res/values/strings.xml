@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calcul de l\'IMC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="tv1">Poids</string>
+    <string name="tv2">Taille</string>
+    
+    <string name="rad1">Metres</string>
+    <string name="rad2">Centimetres</string>
+    
+    <string name="check">Mega fonction !</string>
+    
+    <string name="button1">Calculer l\'IMC</string>
+    <string name="button2">RAZ</string>
+    
+    <string name="result"> Resultat:\n
+    Vous devez Cliquer sur le boutton \"Calculer l\'IMC\"\n
+    pour obtenir le resultat</string>
+
+</resources>

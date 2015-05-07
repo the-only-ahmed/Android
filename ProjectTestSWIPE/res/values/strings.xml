@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project Test SWIPE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="left_world">LEFT world!</string>
+    <string name="right_world">RIGHT world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
